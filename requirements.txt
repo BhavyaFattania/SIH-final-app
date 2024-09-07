@@ -1,3 +1,4 @@
-streamlit 
+python
+streamlit
 transformers 
 pillow
